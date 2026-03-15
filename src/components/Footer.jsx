@@ -79,7 +79,7 @@ const Footer = () => {
               >
                 Bardoli, Gujarat, India
               </a>
-              <p>keyur5901@gmail.com</p>
+              <a href="mailto:keyur5901@gmail.com" className="hover:text-white transition-colors block">keyur5901@gmail.com</a>
               <p>+91 9327849210</p>
             </div>
           </div>
