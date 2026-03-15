@@ -236,4 +236,4 @@ If you have any questions or need help customizing this portfolio, feel free to 
 
 ---
 
-Built with ❤️ using React, Tailwind CSS, and Framer Motion
+Built with ❤️ using React, Tailwind CSS, and Framer Motion"# Protfolio" 
