@@ -63,7 +63,7 @@ const Hero = () => {
             className="flex justify-center space-x-6"
           >
             <a
-              href="https://github.com"
+              href="https://github.com/keyur5901"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl transition-shadow"
