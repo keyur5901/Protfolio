@@ -84,17 +84,18 @@ const Contact = () => {
 
   const socialLinks = [
     {
-      icon: Github,
-      label: 'GitHub',
-      href: 'https://github.com/keyur5901',
-      color: 'hover:text-gray-900 dark:hover:text-white'
-    },
-    {
       icon: Linkedin,
       label: 'LinkedIn',
       href: 'https://linkedin.com',
       color: 'hover:text-blue-600'
     },
+    {
+      icon: Twitter,
+      label: 'Twitter',
+      href: 'https://twitter.com',
+      color: 'hover:text-blue-400'
+    }
+  ];
     {
       icon: Twitter,
       label: 'Twitter',
