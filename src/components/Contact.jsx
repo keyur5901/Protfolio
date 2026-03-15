@@ -216,15 +216,7 @@ const Contact = () => {
                 </div>
               )}
 
-              <div className="text-sm text-gray-500 dark:text-gray-400 mt-4">
-                <p><strong>Note:</strong> To enable form functionality:</p>
-                <ol className="list-decimal list-inside mt-2 space-y-1">
-                  <li>Copy <code>.env.example</code> to <code>.env</code></li>
-                  <li>Sign up at <a href="https://www.emailjs.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">emailjs.com</a></li>
-                  <li>Create a service and email template</li>
-                  <li>Add your EmailJS credentials to the <code>.env</code> file</li>
-                </ol>
-              </div>
+
             </form>
           </motion.div>
 
